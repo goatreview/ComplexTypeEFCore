@@ -2,7 +2,7 @@ using ComplexTypeEFCore.Persistence;
 
 namespace ComplexTypeEFCore;
 
-public class UnitTest1
+public class UsageTests
 {
     [Fact]
     public void Test_UsingOfComplexType()
